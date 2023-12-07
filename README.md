@@ -1,11 +1,11 @@
 # How to Use Picker as Country Picker in the .NET MAUI Picker (SfPicker)
 
-This repository contains the sample code to use picker as country picker in the [SfImageEditor](https://help.syncfusion.com/maui/imageeditor/getting-started) control.
+This repository contains the sample code to use picker as country picker in the [SfPicker](https://help.syncfusion.com/maui/picker/getting-started) control.
 
 # Syncfusion controls
 
 This project used the following Syncfusion control(s):
-* [.NET MAUI ImageEditor (SfImageEditor)](https://www.syncfusion.com/maui-controls/maui-image-editor)
+* [.NET MAUI Picker (SfPicker)](https://www.syncfusion.com/maui-controls/maui-picker)
 
 ## Supported platforms
 
